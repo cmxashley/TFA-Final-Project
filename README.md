@@ -10,7 +10,7 @@ Section: Tools for Analytics IEOR4501 - 002 (Tuesday section)
 
 
 ## Project Overview
-In this project, we explored the dataset recording 311 phone number for non-emergency services in New York City in 2020. Two peoblems were studied:
+In this project, we explored the dataset recording 311 phone number for non-emergency services in New York City in 2020. Two problems were studied:
 <li> What are the top 10 causes of calls to 311 are in our chosen ZIP code?
 <li> Is illegal parking incidents a larger fraction of total 311 incidents in our ZIP code than they are in general?
 
